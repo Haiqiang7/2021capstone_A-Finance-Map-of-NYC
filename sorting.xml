@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">count(bbl)</Data></Cell>
+			<Cell><Data ss:Type="String">business_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">39572</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11960</Data></Cell>
+			<Cell><Data ss:Type="String">NY SCHOOL CONSTRUCTION AUTHORITY</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8772</Data></Cell>
+			<Cell><Data ss:Type="String">NYC SCA</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">3168</Data></Cell>
+			<Cell><Data ss:Type="String">NYC SCHOOL CONSTRUCTION AUTHORIT</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">3162</Data></Cell>
+			<Cell><Data ss:Type="String">NYCSCA</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2476</Data></Cell>
+			<Cell><Data ss:Type="String">SPRING SCAFFOLDING LLC</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1866</Data></Cell>
+			<Cell><Data ss:Type="String">SL GREEN REALTY CORP</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1646</Data></Cell>
+			<Cell><Data ss:Type="String">COLUMBIA UNIVERSITY</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1564</Data></Cell>
+			<Cell><Data ss:Type="String">NYC SCHOOL CONST AUTHORITY</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1452</Data></Cell>
+			<Cell><Data ss:Type="String">SCHOOL CONSTRUCTION AUTHORITY</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
